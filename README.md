@@ -257,3 +257,8 @@ jobs:
 ## PHPUnit tips
 
 
+Run specific suite ```./vendor/bin/phpunit --testsuite <name>```
+
+
+
+
