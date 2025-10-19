@@ -1,7 +1,8 @@
 **TOC**
 
--[PHPUnit and Deploy](#ed-deploy-phpunit)
--[PHPUnit tips](#phpunit-tips)
+
+- [PHPUnit and Deploy](#ed-deploy-phpunit)
+- [PHPUnit tips](#phpunit-tips)
 
 
 # ed-deploy-phpunit
