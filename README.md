@@ -1,3 +1,9 @@
+**TOC**
+
+-[PHPUnit and Deploy](#ed-deploy-phpunit)
+-[PHPUnit tips](#phpunit-tips)
+
+
 # ed-deploy-phpunit
 
 PHPUnit testing is a industry-standard tool nowadays. PHPStan is a genius sidekick. Everyone (I guess) love them. So, what’s the catch?
@@ -245,3 +251,8 @@ jobs:
           git commit -m "Add Coverage and Analysis files" 
           git push
 ```
+
+
+## PHPUnit tips
+
+
