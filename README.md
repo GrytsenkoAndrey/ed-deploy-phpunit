@@ -256,8 +256,9 @@ jobs:
 
 ## PHPUnit tips
 
-
-Run specific suite ```./vendor/bin/phpunit --testsuite <name>```
+1. Run specific suite ```./vendor/bin/phpunit --testsuite <name>```
+2. Run specific test with method ```./vendor/bin/phpunit --filter MyClassTest::myMethod```
+3. 
 
 
 
