@@ -261,7 +261,11 @@ jobs:
 3. Run specific test method ```./vendor/bin/phpunit --filter myTestMethodName```
 4. Skip empty test ```phpunit --dont-report-useless-tests```
 5. Mark incomplete ```$this->markTestIncomplete('This test has to be implemented later');```
-6. 
+6. One test depends on another
+- use `PhpUnit\Framework\Attributes\Depends`
+- return from the first test result
+- use `#[Depends('firstTestName')]` on the second, pass parameter
+7. 
 
 
 
