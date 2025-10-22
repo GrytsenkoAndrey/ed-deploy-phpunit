@@ -265,7 +265,7 @@ jobs:
 - use `PhpUnit\Framework\Attributes\Depends`
 - return from the first test result
 - use `#[Depends('firstTestName')]` on the second, pass parameter
-7. 
+7. Fixture - 
 
 
 
