@@ -265,7 +265,8 @@ jobs:
 - use `PhpUnit\Framework\Attributes\Depends`
 - return from the first test result
 - use `#[Depends('firstTestName')]` on the second, pass parameter
-7. Fixture - 
+7. Fixture
+8. Dataset - https://phpunit-documentation-russian.readthedocs.io/ru/latest/database.html#datasets-datatables
 
 
 
