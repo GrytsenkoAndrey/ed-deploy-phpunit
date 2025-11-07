@@ -267,6 +267,8 @@ jobs:
 - use `#[Depends('firstTestName')]` on the second, pass parameter
 7. [Fixture](https://docs.phpunit.de/en/10.5/fixtures.html)
 8. Dataset - https://phpunit-documentation-russian.readthedocs.io/ru/latest/database.html#datasets-datatables
+9. stub, mock
+  - stub - doesn't care if the method is called or not just if it is: return true
 
 
 
