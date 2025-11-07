@@ -274,6 +274,7 @@ jobs:
   stubs - used when we don't care how the method is called or even if its called at all : createStub()
   mock - if you want to check how method is called : createMock()
   mockBuilder - this allows to configure the mock object with various different method call; if you need more control over the mock object that's created you can use: getMockBuilder() ->getMock();
+
 10. 
 
 
