@@ -269,6 +269,9 @@ jobs:
 8. Dataset - https://phpunit-documentation-russian.readthedocs.io/ru/latest/database.html#datasets-datatables
 9. stub, mock
   - stub - doesn't care if the method is called or not just if it is: return true
+  - mock - if you want to configure expected behavior instead of a stub object you have to create a mock object
+
+    
 
 
 
